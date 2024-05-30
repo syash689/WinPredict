@@ -35,8 +35,5 @@ This project leverages the following technologies:
 To make predictions, provide the current match situation including team performance, player statistics, and match conditions. The predictor will calculate the probability of a team winning.
 
 
-## Predict with Confidence
-
-Explore the "IPL Win Predictor" and make data-driven predictions about IPL match outcomes. Get real-time insights and enhance your understanding of match dynamics. Visit the [Live Demo](https://ipl-match-predictor.streamlit.app/) and elevate your cricket analysis.
 
 
