@@ -28,7 +28,8 @@ This project leverages the following technologies:
 - [pandas](https://pandas.pydata.org/)
 - [Streamlit](https://www.streamlit.io/)
 
-
+Live demo link
+https://ipl-match-predictor.streamlit.app/
 
 ## Usage
 
